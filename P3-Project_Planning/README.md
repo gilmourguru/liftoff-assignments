@@ -8,12 +8,20 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* [Home Page](https://github.com/gilmourguru/liftoff-assignments/blob/master/P3-Project_Planning/WTWH%20-%20Home%20Page.png)
+* [Group Chat](https://github.com/gilmourguru/liftoff-assignments/blob/master/P3-Project_Planning/WTWH%20-%20Group%20Chat.png)
+* [Floyd Discography](https://github.com/gilmourguru/liftoff-assignments/blob/master/P3-Project_Planning/WTWH%20-%20Floyd%20Discography.png)
+* [Floyd Album Detail](https://github.com/gilmourguru/liftoff-assignments/blob/master/P3-Project_Planning/WTWH%20-%20Pink%20Floyd%20Album%20Info.png)
+* [User Profile Page](https://github.com/gilmourguru/liftoff-assignments/blob/master/P3-Project_Planning/WTWH%20-%20User%20Profile%20Page.png)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://github.com/gilmourguru/wtwh-angular/projects/1
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+https://github.com/gilmourguru/wtwh-angular
+
+### Deployed Project Link
+
+https://kcfloyd.com
