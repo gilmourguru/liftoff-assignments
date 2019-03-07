@@ -13,6 +13,6 @@ https://github.com/gilmourguru
 https://www.linkedin.com/in/taylor-helton-798303176/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+https://github.com/gilmourguru/liftoff-assignments/blob/master/Taylor%20Helton%20-%20Resume_New.pdf
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
